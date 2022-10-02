@@ -1,4 +1,4 @@
-# CMPSCI-4660-Project-2
+# CMPSCI-4760-Project-2
 
 Shawn Jezik
 10/1/2022
